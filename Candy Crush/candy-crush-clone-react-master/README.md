@@ -6,7 +6,7 @@ Want to know more about Me. LinkedIn: https://www.linkedin.com/in/akash-br-b86a9
 # About the project
 
 This Candy Crush game is clone version of one of the most downloaded and most played game, "Candy Crush".
-This project is one of my solo project. And building this game gave me alot of knowledge. I project will be interesting to you too.
+This project is one of my solo project. And building this game gave me alot of knowledge. This project will be interesting to you too.
 
 ## Tools and Libraries Used
 
